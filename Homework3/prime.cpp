@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <time.h>
 #include <vector>
-i#include <cmath>
+#include <cmath>
 #include <ctime>
 
 using namespace std;	
